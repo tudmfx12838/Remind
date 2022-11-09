@@ -1,4 +1,0 @@
-Author: DANG MINH TU
-Release: 2022/11/09
-Respository name: Remind
-Discription: Reminding knowledge
