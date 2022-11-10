@@ -1,1 +1,0 @@
-document.getElementById("demo2").innerHTML = "ABC1";
