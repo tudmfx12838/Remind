@@ -1,0 +1,16 @@
+.header{
+    padding: 0px;
+    margin: 0;
+}
+.header-contents{
+    width: 980px;
+    border: 1px solid #000;
+}
+.logo{
+    width: 200px;
+    border: 1px solid #000;
+}
+.menu-list{
+    width: 400px;
+    border: 1px solid #000;
+}
